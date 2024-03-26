@@ -1,3 +1,3 @@
 # gitdemo
-This is my first commit/ push!
+This is my first commit/push!
 # gitdemo
